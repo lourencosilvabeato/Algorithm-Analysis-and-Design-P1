@@ -144,12 +144,3 @@ R C M N                 ← grid dimensions, max consecutive jumps, max total ju
 | C | 1 – 400 | Number of columns |
 | M | 1 – 5 | Max consecutive jumps |
 | N | 1 – 10 | Max total jumps in the journey |
-
-## Authors
-
-- **Lourenço Beato** — 68461
-- **Tomás Sousa** — 68302
-
----
-
-*NOVA FCT · Análise e Desenho de Algoritmos · 2024/2025*
