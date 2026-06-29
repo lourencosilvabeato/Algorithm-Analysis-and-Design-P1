@@ -153,3 +153,4 @@ R C M N                 ← grid dimensions, max consecutive jumps, max total ju
 ---
 
 *NOVA FCT · Análise e Desenho de Algoritmos · 2024/2025*
+
